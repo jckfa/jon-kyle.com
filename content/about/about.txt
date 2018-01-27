@@ -16,7 +16,7 @@ Design and development (2009–2016) at [Cargo Collective](http://cargocollectiv
 
 [Hardly Everything](http://hardlyeverything.com), a private feed and bookmarking tool, emphasis on cadence and data ownership.
 
-[A line moving across a window once every year](http://a-line-moving-across-a-window-once-every-year.com/), [Background color fading from black to white every century](bgcolor-fading-from-black-to-white-every-century.com)
+[A line moving across a window once every year](http://a-line-moving-across-a-window-once-every-year.com/), [Background color fading from black to white every century](http://bgcolor-fading-from-black-to-white-every-century.com)
 
 [Walking](http://walking.jon-kyle.com), in places.
 
